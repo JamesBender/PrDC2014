@@ -1,0 +1,9 @@
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\obj\Debug\MyNinjectModules.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\bin\Debug\MyNinjectModules.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\bin\Debug\MyNinjectModules.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\bin\Debug\Common.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\bin\Debug\Ninject.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\bin\Debug\Common.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\bin\Debug\Ninject.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\obj\Debug\MyNinjectModules.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\PrDC2014\DI\DIwithNinject\MyNinjectModules\obj\Debug\MyNinjectModules.pdb
